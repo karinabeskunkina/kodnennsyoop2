@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kodnennsyoop2", "kodnennsyoop2.vcxproj", "{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Debug|x64.ActiveCfg = Debug|x64
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Debug|x64.Build.0 = Debug|x64
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Debug|x86.Build.0 = Debug|Win32
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Release|x64.ActiveCfg = Release|x64
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Release|x64.Build.0 = Release|x64
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Release|x86.ActiveCfg = Release|Win32
+		{BC9BC4E2-BA36-42BC-838E-A19078B5CCDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACEB42D-25E2-4A6E-B516-D03788128DB7}
+	EndGlobalSection
+EndGlobal
