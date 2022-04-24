@@ -14,13 +14,13 @@ void(*select(int sum, Array* arr))(Array*, int)
 {
 	void (*actions[])(Array * arr, int n) = { Arrrevers, ArrsortV, ArrsortU };
 	if (sum == arr[0].x) {
-		return actions[1];
+		return actions[0];
 	}
 	if (sum > arr[0].x) {
-		return actions[2];
+		return actions[1];
 	}
 	if (sum < arr[0].x) {
-		return actions[3];
+		return actions[2];
 	}
 
 
